@@ -5,8 +5,7 @@ I'm Joel, full-stack web developer from Lincoln, England. I work for [TRS Design
 My preferred web stack is [Tailwind CSS](http://tailwindcss.com), [AlpineJS](https://github.com/alpinejs/alpine), [InertiaJS](https://inertiajs.com) and [Laravel](https://laravel.com), Redis & MySQL.
 
 ### 💪 In my spare time, i'm currently working on:
-- Socialite support for Laravel Jestream ([here](https://github.com/laravel/jetstream/pull/444)).
-- Open source packages for Laravel
+- Socialstream, a Jetstream add-on for Laravel Socialite ([here](https://github.com/laravel/jetstream/pull/444)).
 
 ### To contact me
 - Drop me an email using the email address on my github profile.
