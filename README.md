@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Joel, Mid Level PHP Developer from Lincoln, England. I work for [Adzooma](https://www.adzooma.com) and am an active contributor to open-source projects (mainly Laravel).
+I'm Joel, Full Stack ReactJs and PHP Developer from Lincoln, England. I work for [Adzooma](https://www.adzooma.com) and am an active contributor to open-source projects (mainly Laravel).
 
 My preferred web stack is [Tailwind CSS](http://tailwindcss.com), [AlpineJS](https://github.com/alpinejs/alpine), [InertiaJS](https://inertiajs.com) and [Laravel](https://laravel.com), Redis & MySQL.
 
