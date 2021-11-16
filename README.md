@@ -10,3 +10,4 @@ My preferred web stack is [Tailwind CSS](http://tailwindcss.com), [AlpineJS](htt
 ### To contact me
 - Drop me an email using the email address on my github profile.
 - Ping me a message on Twitter [@joelbutcher97](http://twitter.com/joelbutcher97)
+- Drop me an email – joel@joelbutcher.co.uk
