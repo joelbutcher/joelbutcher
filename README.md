@@ -9,5 +9,4 @@ As a full stack dev, it's important to keep an open mind when new projects come 
 I tend to use [Laravel](https://laravel.com) for backend systems / API's, because my background is PHP and it's a framework I'm very familiar with. However, I'm starting to investigate GraphQL and developing API's solely in Next.js platforms with a GraphQL database.
 
 ### To contact me
-- Drop me an email using the email address on my github profile.
 - Ping me a message on Twitter [@joelbutcher97](http://twitter.com/joelbutcher97)
