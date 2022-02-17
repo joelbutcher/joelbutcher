@@ -1,7 +1,5 @@
 ### Hello 👋
 
-Hi there 👋
-
 I'm Joel and I'm a full stack developer.
 
 I create awesome software for the web, such as the hugely popular [Socialstream](https://github.com/joelbutcher/socialstream) open source libarary. I currently work as a Full Stack Developer at [Adzooma](https://adzooma.com).
