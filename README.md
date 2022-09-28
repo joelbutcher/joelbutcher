@@ -4,7 +4,7 @@ I'm Joel and I'm a full stack developer. I specialise in Laravel, Next.js, React
 
 I love to create awesome software for the web, if you would like to collaborate with me on any projects or ideas you have, or just to get my take on an implementation, drop me a message via my Twitter handle below.
 
-## What I'm currently working on:
+## What I'm currently working on
 
 ### Socialstream
 - I've rebuilt the docs website using [GitBook](https://www.gitbook.com) - find it [here](https://docs.socialstream.dev)
