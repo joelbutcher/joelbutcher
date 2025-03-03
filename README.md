@@ -4,6 +4,8 @@ I'm Joel and I'm a full stack developer. I specialise in Laravel, Next.js, React
 
 I love to create awesome software for the web, if you would like to collaborate with me on any projects or ideas you have, or just to get my take on an implementation, drop me a message via my Twitter handle below.
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelbutcher)](https://github.com/joelbutcher)
+
 ## What I'm currently working on
 
 ### Socialstream
