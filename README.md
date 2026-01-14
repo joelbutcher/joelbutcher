@@ -16,6 +16,5 @@ I love to create awesome software for the web, if you would like to collaborate 
 This was a fun little project, I was researching how to authenticate users of an existing Laravel application with Google Firebase. As part of this research, I built a little Python script to batch import users from the `users` table of a local Laravel application into a new Firebase project. Find the source code [here](https://github.com/joelbutcher/laravel-firebase-user-importer).
 
 ## To contact me
-- Ping me a message on Twitter [@joelbutcher97](http://twitter.com/joelbutcher97)
 - Buy me a coffee https://ko-fi.com/joelbutcher
 - Hit me up on Telegram https://t.me/joelbutcher
